@@ -11,16 +11,16 @@ const AboutCard: React.FC = () => {
         and data engineering 
       </p>
       <br></br>
-      <p>Sometimes my time after High School feels as though it has been so full it shouldn't be contained in just 1 life.
+      <p>Sometimes my time after High School feels as though it has been so full it should not have been contained in just one life.
         After graduating I was fortunate enough to be a Missile Maintainer with the USAF in North Dakota where I learned 
         work ethic and service before self. Afterwards, I got my undergraduate and graduate degrees in analytics at the University of Kansas
         where I also played rugby, cheered, and powerlifted. Here I learned the importance of getting out of my comfort zone 
         to really learn
       </p>
       <br></br>
-      <p>In my current role as an analyst I've learned the importance of context. Once I got to a point 
+      <p>In my current role as an analyst I have learned the importance of context. Once I got to a point 
         where I was more than proficient with the tools I use as an analyst I learned that the specific frame 
-        a question is being asked in is vitally important. A quote I like is don't miss the forest for the trees
+        a question is being asked in is vitally important. A quote I like is do not miss the forest for the trees
       </p>
       <br></br>
       <p>
@@ -29,7 +29,7 @@ const AboutCard: React.FC = () => {
       </p>
 
     </div>
-  );
+  )
 };
 
 export default AboutCard;
